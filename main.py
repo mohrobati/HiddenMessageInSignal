@@ -1,6 +1,5 @@
 from scipy.io import wavfile
 from code import put_code_in_signal
-from decode import decode_from_signal
 import os
 
 lim = 300000
